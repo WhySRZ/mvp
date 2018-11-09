@@ -1,8 +1,7 @@
 # mvp
-# MVPDemo
-原demo地址https://github.com/weioule/MVPDemo
-#这里更改的mvp部分结构，增加了databing,使用起来方便一些。
-#原demo简介
+# MVPDemo  原demo地址https://github.com/weioule/MVPDemo
+# 这里更改的mvp部分结构，增加了databing,使用起来方便一些。
+# 原demo简介
 这是一个用mvp架构写的demo，实现了闪屏页的广告展示，版本更新弹窗、以及首页的Tab和带下拉刷新与上拉加载更多的列表页面
 
 周一上线了一版，这些天在讨论下一波需求。正好前阵子有一位朋友问我关于mvp架构的问题，所以想写一篇博客来讲讲mvp。
